@@ -137,17 +137,17 @@ pl_PL.strings = {
   },
   xMoreFilesAdded: {
     '0': 'dodano %{smart_count} 1 plik więcej',
-    '1': 'dodano %{smart_count} pliki więcej',
+    '1': 'dodano %{smart_count} plików więcej',
   },
   xTimeLeft: '%{time} zostało',
   youCanOnlyUploadFileTypes: 'Możesz przesłać tylko: %{types}',
   youCanOnlyUploadX: {
     '0': 'Możesz wgrać tylko %{smart_count} plik',
-    '1': 'Możesz wgrać tylko %{smart_count} pliki',
+    '1': 'Możesz wgrać tylko %{smart_count} plików',
   },
   youHaveToAtLeastSelectX: {
     '0': 'Musisz wybrać przynajmniej %{smart_count} plik',
-    '1': 'Musisz wybrać przynajmniej %{smart_count} pliki',
+    '1': 'Musisz wybrać przynajmniej %{smart_count} plików',
   },
 }
 
